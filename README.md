@@ -14,7 +14,6 @@ I'm Tanisha Verma, a Computer Science student interested in building practical s
 
 I enjoy turning ideas into practical applications that solve real-world problems through clean software design.
 
----
 
 ## 🚀 Currently Building
 
@@ -24,7 +23,6 @@ I enjoy turning ideas into practical applications that solve real-world problems
 - 🧠 Machine Learning solutions
 - 🌱 Open-source ready projects
 
----
 
 ## 🛠 Tech Stack
 
@@ -34,9 +32,8 @@ I enjoy turning ideas into practical applications that solve real-world problems
 
 </p>
 
----
 
-<h2>📊 GitHub Activity</h2>
+## 📊 GitHub Activity
 
 <p>
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishaverma13&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -52,9 +49,8 @@ I enjoy turning ideas into practical applications that solve real-world problems
   <img width="100%" src="https://raw.githubusercontent.com/tanishaverma13/tanishaverma13/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
----
 
-<h2>🌐 Connect</h2>
+## 🌐 Connect
 
 <p>
 <a href="https://www.linkedin.com/in/tanishaverma13/">
@@ -70,7 +66,6 @@ I enjoy turning ideas into practical applications that solve real-world problems
 </a> -->
 </p>
 
----
 
 <p align="center">
 
