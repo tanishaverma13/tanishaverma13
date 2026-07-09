@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/banner.svg" width="95%" alt="Tanisha Verma Banner">
+<img src="assets/banner.svg" width="88%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Intelligent+Software;Creating+AI-Powered+Solutions;Exploring+Financial+Technology;Always+Curious.+Always+Building." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+Intelligent+Software;Artificial+Intelligence;Financial+Technology;Problem+Solving"/>
 </p>
 
-<br>
+
 
 ## 👋 About
 
@@ -47,6 +47,7 @@ Whether it's designing intelligent systems, analyzing financial data, or creatin
 <p>
 <img src="https://streak-stats.demolab.com?user=tanishaverma13&theme=tokyonight&hide_border=true"/>
 </p>
+
 ---
 
 <h2>🌐 Connect</h2>
