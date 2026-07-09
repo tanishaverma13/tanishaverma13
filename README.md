@@ -35,13 +35,13 @@ I enjoy turning ideas into practical applications that solve real-world problems
 
 ## 📊 GitHub Activity
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishaverma13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishaverma13&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaverma13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishaverma13&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p>
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=tanishaverma13&theme=tokyonight&hide_border=true"/>
 </p>
 
