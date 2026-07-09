@@ -36,17 +36,17 @@ I enjoy turning ideas into practical applications that solve real-world problems
 ## 📊 GitHub Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tanishaverma13&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanishaverma13&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tanishaverma13&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishaverma13&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=tanishaverma13&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=tanishaverma13&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/tanishaverma13/tanishaverma13/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img width="100%" src="https://raw.githubusercontent.com/tanishaverma13/tanishaverma13/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
